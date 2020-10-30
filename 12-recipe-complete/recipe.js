@@ -38,25 +38,4 @@ Bowls.addToBowl(mixingBowl, someFlour)
 Bowls.printContents(mixingBowl)
 Bowls.mix(mixingBowl)
 Bowls.printContents(mixingBowl)
-
-// getFlouredSurface -> flouredSurface
-// getContentsOfBowl (function on bowl) -> dough
-// putDough on the floured surface
-// knead(flouredSurface) -> (changes the dough and adds an attribute "elastic")
-
-// getPan -> pan
-// greasePan
-// putDough in the pan
-
-// rise() on pan -> double the volume of the dough
-// optional getDough from pan and punch it down on surface
-
-// getOven -> oven
-// setTemperature(375) (wait for the temperature to increase)
-// putPan in oven
-// bake (function on oven) -> takes the pan, swap dough for a loaf
-// getPan back from the oven
-
-// getLoaf out of pan
-// optional cool on wire rack
-
+// expect to find dough

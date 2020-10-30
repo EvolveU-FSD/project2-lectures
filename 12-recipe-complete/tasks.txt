@@ -1,0 +1,20 @@
+0. make function to get the contents of the bowl (or container)
+1. make function to put something on the floured surface (flouredSurface.js)
+1.5 (print the contents of the floured surface)
+2. make function "knead" on floured surface that will set dough.elastic = true (flouredSurface.js)
+3. make function to get content off the floured surface (flouredSurface.js)
+4. make function to put something in the pan (in pan.js)
+4.5 (print the contents of the pan)
+5. make function "rise" on pan that doubles the size of the contents (pans.js)
+6. make function to "setTemperature" on oven (oven.js)
+7. make function to put something in the oven (oven.js)
+7.5 (print the contents of the oven)
+8. make function "bake" to swap contents of pan for a "loaf" that is HOT provided it contains dough (oven.js)
+9. make function to get the pan back out of the oven (oven.js)
+10. make function to get the contents of the pan (pan.js)
+---- DONE FOR NOW ---
+11. create wireRack and put our loaf on it
+12. make function "cool" to drop the temperature of the loaf
+13. slice loaf -> slice
+14. slice.butter
+15. slice.eat
